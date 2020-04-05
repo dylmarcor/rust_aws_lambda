@@ -28,4 +28,4 @@ fn main() {
             return;
         }
     };
-};
+}
